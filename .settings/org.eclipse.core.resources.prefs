@@ -1,3 +1,5 @@
 eclipse.preferences.version=1
 encoding//ke1/datatype.sml=UTF-8
 encoding//ke1/highOrderFunctions.sml=UTF-8
+encoding//ke2/streams.sml=UTF-8
+encoding//ke2/unfoldFold.sml=UTF-8
